@@ -97,8 +97,9 @@ Contributions welcome! Feel free to:
 
 ## 👨‍💻 Author
 
-Created by TheCo
+Created by TheCo/Claude-AI
 
 ## ⭐ Show Your Support
+
 
 Give a ⭐ if this project helped you!
